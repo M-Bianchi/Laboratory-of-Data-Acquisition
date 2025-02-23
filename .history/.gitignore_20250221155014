@@ -2,5 +2,7 @@ Data/
 Images/
 Filters/
 Spectra/
+Proposal/
+Report/
 *.xml
 *.zip
